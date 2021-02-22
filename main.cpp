@@ -4,6 +4,6 @@
 int main(int argc, char *argv[])
 {
 	QCoreApplication a(argc, argv);
-	qDebug() << "Hello World";
+	qDebug() << "Hello World World";
 	return QCoreApplication::exec();
 }
